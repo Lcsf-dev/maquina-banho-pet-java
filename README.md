@@ -29,10 +29,15 @@ O sistema simula o funcionamento de uma máquina de banho automatizada para pets
 
 ## 🕹️ Opções do Menu
 1.  **Dar banho no pet:** Executa o processo de lavagem.
-2.  **Abastecer água/shampoo:** Recarrega os reservatórios da máquina.
-3.  **Verificar níveis:** Exibe a quantidade atual de insumos.
-4.  **Colocar pet:** Solicita o nome do pet e o insere na máquina.
-5.  **Limpar máquina:** Realiza a manutenção para permitir novos usos.
+2.  **Abastecer a máquina com água:** Recarrega o reservatório de água.
+3.  **Abastecer a máquina com shampoo:** Recarrega o reservatório de shampoo.
+4.  **Verificar água da máquina:** Exibe a quantidade atual de água.
+5.  **Verificar shampoo da máquina:** Exibe a quantidade atual de shampoo.
+6.  **Verificar se tem pet no banho:** Informa se existe um pet na máquina.
+7.  **Colocar pet na máquina:** Solicita o nome do pet e o insere na máquina.
+8.  **Retirar pet da máquina:** Remove o pet e aplica a regra de limpeza, se necessário.
+9.  **Limpar a máquina:** Realiza a manutenção para permitir novos usos.
+0.  **Sair:** Encerra o sistema.
 
 ---
 Desenvolvido durante o Bootcamp NTT DATA.
